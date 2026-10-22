@@ -103,7 +103,7 @@ function formatearPoblacion(poblacion) {
 <template>
   <main class="contenedor">
     <header class="encabezado">
-      <span class="etiqueta">Vue 3 + REST Countries</span>
+      
       <h1> Explorador de Países</h1>
       <p>Consulta países y descubre información sobre ellos.</p>
     </header>
@@ -194,9 +194,7 @@ function formatearPoblacion(poblacion) {
       </section>
     </template>
 
-    <footer>
-      Segundo proyecto · Unidad 3 · Consumo de API con Vue 3
-    </footer>
+    
   </main>
 </template>
 
